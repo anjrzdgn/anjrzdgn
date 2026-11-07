@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=❤️+In+the+name+of+God+❤️;Welcome+to+my+GitHub+👾;I'm+Ali;XR+%7C+Reverse+Engineer+%7C+Graphist;Always+learning+and+teaching" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2500&pause=1000&color=00FFAA&center=true&vCenter=true&width=650&lines=❤️+In+the+name+of+God+❤️;Welcome+to+my+GitHub+👾;I'm+Ali;XR+%7C+Reverse+Engineer+%7C+Graphist;Always+learning+and+teaching;Working at Medulator.ir" alt="Typing animation" />
 </p>
 
 ---
@@ -23,14 +23,6 @@
   <img src="https://img.shields.io/badge/Bronze%20Medal-London%20Intl%20Youth%20Innovation%20Festival-%23CD7F32" />
   <img src="https://img.shields.io/badge/Silver%20Medal-Tehran%20National%20Innovation-%23C0C0C0" />
   <img src="https://img.shields.io/badge/Public%20Speaker-International%20Conferences-blue" />
-</p>
-
----
-
-## 📊 Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anjrzdgn&show_icons=true&theme=tokyonight" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjrzdgn&layout=compact&theme=tokyonight" height="150"/>
 </p>
 
 ---
